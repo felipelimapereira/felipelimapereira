@@ -11,15 +11,18 @@
 ## Technologies
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-Excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Felipe-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Excel" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/41a6244f574854fe2ee113c372291c96b54b5c1c/icons8-excel.svg">
+  <img align="center" alt="PowerPoint" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/41a6244f574854fe2ee113c372291c96b54b5c1c/icons8-power-point.svg">
+  <img align="center" alt="PowerBI" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/41a6244f574854fe2ee113c372291c96b54b5c1c/icons8-power-bi-2021.svg">
+  <img align="center" alt="Dax" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/refs/heads/main/LinguagemDAX.png">
+  <img align="center" alt="GPT" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/refs/heads/main/chatgpt-icon.webp">
+  <img align="center" alt="Copilot" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/41a6244f574854fe2ee113c372291c96b54b5c1c/icons8-microsoft-copilot.svg">
+  <img align="center" alt="Figma" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/41a6244f574854fe2ee113c372291c96b54b5c1c/icons8-figma.svg">
+  <img align="center" alt="Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">  
+  <img align="center" alt="Sql" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/41a6244f574854fe2ee113c372291c96b54b5c1c/icons8-microsoft-sql-server.svg">
+  <img align="center" alt="VSCode" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/41a6244f574854fe2ee113c372291c96b54b5c1c/icons8-visual-studio-code-2019.svg">
+  <img align="center" alt="Jupyter" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/refs/heads/main/jupyter_app_icon_161280.png">
+  <img align="center" alt="Anaconda" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/d6dacc9c0672e02666793b6102af2e2a59f67d62/icons8-anaconda.svg">
 </div>
 
 ## Statistics
