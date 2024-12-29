@@ -4,7 +4,7 @@
 
 ## Sobre mim.
 * 🧑🏻‍💻 Meu nome é Felipe, sou apaixonado por programação e análise de dados.
-* ✨ Sou criador de conteúdo do canal: [Code Analytics in YouTube](https://www.youtube.com/@codeanalyticsbr )
+* ✨ Sou criador de conteúdo do canal: [Code Analytics no YouTube](https://www.youtube.com/@codeanalyticsbr )
 * 🧭 Eu moro em Embu das Artes/SP - Brasil.
 </div>
 
