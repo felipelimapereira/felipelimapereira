@@ -2,10 +2,10 @@
   <a href="https://github.com/felipelimapereira"><img src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/refs/heads/main/Banner_Redme.png" a>
 </div>
 
-## About Me
-* 🧑🏻‍💻 My name is Felipe de Lima, and I am passionate about programming and data analysis.
-* ✨ I am content creator for the [channel Code Analytics in YouTube](https://www.youtube.com/@codeanalyticsbr )
-* 🧭 I live in Embu das Artes/SP - Brasil.
+## Sobre mim.
+* 🧑🏻‍💻 Meu nome é Felipe, sou apaixonado por programação e análise de dados.
+* ✨ Sou criador de conteúdo do canal: [channel Code Analytics in YouTube](https://www.youtube.com/@codeanalyticsbr )
+* 🧭 Eu moro em Embu das Artes/SP - Brasil.
 </div>
 
 ## Technologies
