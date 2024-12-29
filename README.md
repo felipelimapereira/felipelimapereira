@@ -8,8 +8,17 @@
 * 🧭 Eu moro em Embu das Artes/SP - Brasil.
 </div>
 
-## Technologies
+## Conhecimento e Cursos
+Conhecimentos Avançados:
+  * Power BI
+  * Excel
 
+Cursos em andamento:
+  * Python para Análise de Dados – Data Science Academy (Início: 07/08/2024)
+  * Python – Udemy (Início: 22/12/2024)
+</div>
+
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Excel" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/41a6244f574854fe2ee113c372291c96b54b5c1c/icons8-excel.svg">
   <img align="center" alt="PowerPoint" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/41a6244f574854fe2ee113c372291c96b54b5c1c/icons8-power-point.svg">
@@ -25,8 +34,7 @@
   <img align="center" alt="Anaconda" height="35" width="35" src="https://raw.githubusercontent.com/felipelimapereira/felipelimapereira/d6dacc9c0672e02666793b6102af2e2a59f67d62/icons8-anaconda.svg">
 </div>
 
-## Statistics
-
+## Estatísticas
 <div align="center">
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=felipelimapereira&show_icons=true&count_private=true&hide_border=true&title_color=A36206&icon_color=A36206&text_color=c9d1d9&bg_color=0d1117" alt="Felipe de Lima github stats" /> 
   <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelimapereira&layout=compact&hide_border=true&title_color=A36206&text_color=A36206&bg_color=0d1117" />
