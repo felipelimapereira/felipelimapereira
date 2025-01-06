@@ -4,7 +4,7 @@
 
 ## Sobre mim.
 * 🧑🏻‍💻 Meu nome é Felipe, sou apaixonado por programação e análise de dados.
-* ✨ Sou criador de conteúdo do canal: [Code Analytics no YouTube](https://www.youtube.com/@codeanalyticsbr )
+* 📊 Especialista em transformar dados em insights valiosos.
 * 🧭 Eu moro em Embu das Artes/SP - Brasil.
 </div>
 
@@ -14,8 +14,9 @@ Conhecimentos Avançados:
   * Excel
 
 Cursos em andamento:
-  * Python para Análise de Dados – Data Science Academy (Início: 07/08/2024)
-  * Python – Udemy (Início: 22/12/2024)
+  * Python – Udemy (Início: 12/2024)
+  * Academia BI - Udemy (Início: 12/2024)
+  * Python para Análise de Dados – Data Science Academy (Início: 08/2024)
 </div>
 
 ## Tecnologias
